@@ -1,0 +1,292 @@
+<Game>
+	<Board width="16" height = "16">
+		<Row>
+			<Block type="1" isDestination="true" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+		</Row>
+		<Row>
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+		</Row>
+		<Row>
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+		</Row>
+		<Row>
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+		</Row>
+		<Row>
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+		</Row>
+		<Row>
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+		</Row>
+		<Row>
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+		</Row>
+		<Row>
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+		</Row>
+		<Row>
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+		</Row>
+		<Row>
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+		</Row>
+		<Row>
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+		</Row>
+		<Row>
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+		</Row>
+		<Row>
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+		</Row>
+		<Row>
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+		</Row>
+		<Row>
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" isSource="true" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+		</Row>
+		<Row>
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+			<Block type="2" />
+			<Block type="1" />
+		</Row>
+	</Board>
+</Game>
