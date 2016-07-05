@@ -1,10 +1,9 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ReadLevel.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ReadLevel.cs">
     <Files>
-      <File FileName="Assets/ReadLevel.cs" Line="39" Column="4" />
-      <File FileName="Assets/Game.cs" Line="24" Column="19" />
-      <File FileName="Assets/game.xml" Line="292" Column="8" />
+      <File FileName="Assets/game.xml" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ReadLevel.cs" Line="17" Column="88" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
